@@ -1,5 +1,5 @@
 # Webscraping, EDA & Metadata-based recommender: IMDb top-1000 dataset
-I web scraped my own IMDb top-1000 dataset, did EDA on it and created a simple recommendation system based on the gathered information. The project is accessible via "website scraping.ipynb" file attached, along with detailed explanations of what I did and the interpretation of the results in the document. 
+I web scraped my own IMDb top-1000 dataset, did EDA on it and created a simple recommendation system based on the gathered information. [Here](https://github.com/miraslavats/IMDb_rec_EDA_webscraping/blob/11e29b3fc56ed23e6005850c0816881b15780455/website%20scraping.ipynb) is where you find it. 
 The project has the following structure:
 1. Web Scraping:
    - creating a function that parses through every movie on a single webpage and gathers the needed information (stars, directors, rating, etc);
